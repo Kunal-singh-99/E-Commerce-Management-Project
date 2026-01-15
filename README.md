@@ -1,6 +1,6 @@
 This is My First Project !!!!!!!!!!!!!!
 
-In This Prjoce i have made an E-Commerce Management System in Python
+In This Prjocet i have made an E-Commerce Management System in Python
 
 In this i have used :
 > Def
