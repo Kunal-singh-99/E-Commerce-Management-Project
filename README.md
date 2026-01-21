@@ -8,4 +8,4 @@ In this i have used :
  Exception Handling
  Many Modlues like :- colorama,getpass,playsound,os etc
 
-Thank You So much for Chicking out My Project <3
+Thank You So much for Checking out My Project <3
